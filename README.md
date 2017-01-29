@@ -1,3 +1,3 @@
-# LearnPythonTheHardway
+# LearnPythonTheHardWay
 
 store code
